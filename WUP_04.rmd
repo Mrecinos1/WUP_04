@@ -45,7 +45,7 @@ basicCN <- ggplot(GSScsv,aes(x=DEGREE,y=WORDSUM))
 basicCN + geom_boxplot()
 ```
 
-
+I can see a clear difference more predominantly between LT High school students on one hand and Junior college students & gradate students on the other hand. There doesn't seem to be a great difference between Junior college students and Bachelor Students. As well as, between LT High School students and High School Students.
 
 ### Numerical Descriptive Results
 
